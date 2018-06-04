@@ -1,0 +1,129 @@
+fileFormatVersion: 2
+guid: 6253c2ebb8608a848b9a8ab5d099b557
+timeCreated: 1523874219
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: 0-model-0-0_0-model-0_0-model-0-0_0-model-0_0-model-0-mat-0_avata_avatar_bag2_d.dds
+    100002: 0-model-0-1_0-model-0_0-model-0-1_0-model-0_0-model-0-mat-1_navi__avatar_female_head.dd
+    100004: 0-model-0-2_0-model-0_0-model-0-2_0-model-0_0-model-0-mat-2_avata_avatar_clothing_d_mip
+    100006: 0-model-0-3_0-model-0_0-model-0-3_0-model-0_0-model-0-mat-3_npc_k_npc_kendra_body_d_mip
+    100008: 0-model-0-5_0-mod_0-m_0-model-0-5_0-mod_0-m_0-model-0-mat-5_avata_avatar_female_body_d_
+    100010: 0-model-0-5_0-mod_0-model-0-5_0-mod_0-model-0-mat-5.001_a_avatar_female_body_d_
+    100012: 0-model-0-7_0-model-0_0-model-0-7_0-model-0_0-model-0-mat-7_corp__corp_shirt_f_d_mip0.d
+    100014: 0-model-0-8_0-model-0_0-model-0-8_0-model-0_0-model-0-mat-8_avata_avatar_eye_pupil.dds
+    100016: 0-model-0-9_0-model-0_0-model-0-9_0-model-0_0-model-0-mat-9_npc_g_npc_grace_head_d_mip0
+    100018: //RootNode
+    100020: None_Na'vi_body_None__None_Na'vi_body_None__0-model-0-mat-4_avata_Grace_avatar_hair_d.d
+    400000: 0-model-0-0_0-model-0_0-model-0-0_0-model-0_0-model-0-mat-0_avata_avatar_bag2_d.dds
+    400002: 0-model-0-1_0-model-0_0-model-0-1_0-model-0_0-model-0-mat-1_navi__avatar_female_head.dd
+    400004: 0-model-0-2_0-model-0_0-model-0-2_0-model-0_0-model-0-mat-2_avata_avatar_clothing_d_mip
+    400006: 0-model-0-3_0-model-0_0-model-0-3_0-model-0_0-model-0-mat-3_npc_k_npc_kendra_body_d_mip
+    400008: 0-model-0-5_0-mod_0-m_0-model-0-5_0-mod_0-m_0-model-0-mat-5_avata_avatar_female_body_d_
+    400010: 0-model-0-5_0-mod_0-model-0-5_0-mod_0-model-0-mat-5.001_a_avatar_female_body_d_
+    400012: 0-model-0-7_0-model-0_0-model-0-7_0-model-0_0-model-0-mat-7_corp__corp_shirt_f_d_mip0.d
+    400014: 0-model-0-8_0-model-0_0-model-0-8_0-model-0_0-model-0-mat-8_avata_avatar_eye_pupil.dds
+    400016: 0-model-0-9_0-model-0_0-model-0-9_0-model-0_0-model-0-mat-9_npc_g_npc_grace_head_d_mip0
+    400018: //RootNode
+    400020: None_Na'vi_body_None__None_Na'vi_body_None__0-model-0-mat-4_avata_Grace_avatar_hair_d.d
+    2300000: 0-model-0-0_0-model-0_0-model-0-0_0-model-0_0-model-0-mat-0_avata_avatar_bag2_d.dds
+    2300002: 0-model-0-1_0-model-0_0-model-0-1_0-model-0_0-model-0-mat-1_navi__avatar_female_head.dd
+    2300004: 0-model-0-2_0-model-0_0-model-0-2_0-model-0_0-model-0-mat-2_avata_avatar_clothing_d_mip
+    2300006: 0-model-0-3_0-model-0_0-model-0-3_0-model-0_0-model-0-mat-3_npc_k_npc_kendra_body_d_mip
+    2300008: 0-model-0-5_0-mod_0-m_0-model-0-5_0-mod_0-m_0-model-0-mat-5_avata_avatar_female_body_d_
+    2300010: 0-model-0-5_0-mod_0-model-0-5_0-mod_0-model-0-mat-5.001_a_avatar_female_body_d_
+    2300012: 0-model-0-7_0-model-0_0-model-0-7_0-model-0_0-model-0-mat-7_corp__corp_shirt_f_d_mip0.d
+    2300014: 0-model-0-8_0-model-0_0-model-0-8_0-model-0_0-model-0-mat-8_avata_avatar_eye_pupil.dds
+    2300016: 0-model-0-9_0-model-0_0-model-0-9_0-model-0_0-model-0-mat-9_npc_g_npc_grace_head_d_mip0
+    2300018: None_Na'vi_body_None__None_Na'vi_body_None__0-model-0-mat-4_avata_Grace_avatar_hair_d.d
+    3300000: 0-model-0-0_0-model-0_0-model-0-0_0-model-0_0-model-0-mat-0_avata_avatar_bag2_d.dds
+    3300002: 0-model-0-1_0-model-0_0-model-0-1_0-model-0_0-model-0-mat-1_navi__avatar_female_head.dd
+    3300004: 0-model-0-2_0-model-0_0-model-0-2_0-model-0_0-model-0-mat-2_avata_avatar_clothing_d_mip
+    3300006: 0-model-0-3_0-model-0_0-model-0-3_0-model-0_0-model-0-mat-3_npc_k_npc_kendra_body_d_mip
+    3300008: 0-model-0-5_0-mod_0-m_0-model-0-5_0-mod_0-m_0-model-0-mat-5_avata_avatar_female_body_d_
+    3300010: 0-model-0-5_0-mod_0-model-0-5_0-mod_0-model-0-mat-5.001_a_avatar_female_body_d_
+    3300012: 0-model-0-7_0-model-0_0-model-0-7_0-model-0_0-model-0-mat-7_corp__corp_shirt_f_d_mip0.d
+    3300014: 0-model-0-8_0-model-0_0-model-0-8_0-model-0_0-model-0-mat-8_avata_avatar_eye_pupil.dds
+    3300016: 0-model-0-9_0-model-0_0-model-0-9_0-model-0_0-model-0-mat-9_npc_g_npc_grace_head_d_mip0
+    3300018: None_Na'vi_body_None__None_Na'vi_body_None__0-model-0-mat-4_avata_Grace_avatar_hair_d.d
+    4300000: 0-model-0-0_0-model-0_0-model-0-0_0-model-0_0-model-0-mat-0_avata_avatar_bag2_d.dds
+    4300002: 0-model-0-1_0-model-0_0-model-0-1_0-model-0_0-model-0-mat-1_navi__avatar_female_head.dd
+    4300004: 0-model-0-2_0-model-0_0-model-0-2_0-model-0_0-model-0-mat-2_avata_avatar_clothing_d_mip
+    4300006: 0-model-0-3_0-model-0_0-model-0-3_0-model-0_0-model-0-mat-3_npc_k_npc_kendra_body_d_mip
+    4300008: 0-model-0-5_0-mod_0-m_0-model-0-5_0-mod_0-m_0-model-0-mat-5_avata_avatar_female_body_d_
+    4300010: 0-model-0-5_0-mod_0-model-0-5_0-mod_0-model-0-mat-5.001_a_avatar_female_body_d_
+    4300012: 0-model-0-7_0-model-0_0-model-0-7_0-model-0_0-model-0-mat-7_corp__corp_shirt_f_d_mip0.d
+    4300014: 0-model-0-8_0-model-0_0-model-0-8_0-model-0_0-model-0-mat-8_avata_avatar_eye_pupil.dds
+    4300016: 0-model-0-9_0-model-0_0-model-0-9_0-model-0_0-model-0-mat-9_npc_g_npc_grace_head_d_mip0
+    4300018: None_Na'vi_body_None__None_Na'vi_body_None__0-model-0-mat-4_avata_Grace_avatar_hair_d.d
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

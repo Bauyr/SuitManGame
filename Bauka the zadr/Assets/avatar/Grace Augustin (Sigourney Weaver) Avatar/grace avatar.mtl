@@ -1,0 +1,112 @@
+# Blender3D MTL File: 
+# Material Count: 10
+newmtl 0-model-0-mat-5_avata_avatar_female_body_d_
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.167772 0.167772 0.167772
+Ks 0.007813 0.007813 0.007813
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd avatar_female_body_d_mip0.dds
+
+
+newmtl 0-model-0-mat-9_npc_g_npc_grace_head_d_mip0
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.167772 0.167772 0.167772
+Ks 0.007813 0.007813 0.007813
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd npc_grace_head_d_mip0.dds
+
+
+newmtl 0-model-0-mat-1_navi__avatar_female_head.dd
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.167772 0.167772 0.167772
+Ks 0.007813 0.007813 0.007813
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd avatar_female_head.dds
+
+
+newmtl 0-model-0-mat-7_corp__corp_shirt_f_d_mip0.d
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.167772 0.167772 0.167772
+Ks 0.007813 0.007813 0.007813
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd corp_shirt_f_d_mip0.dds
+
+
+newmtl 0-model-0-mat-3_npc_k_npc_kendra_body_d_mip
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.167772 0.167772 0.167772
+Ks 0.007813 0.007813 0.007813
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd npc_kendra_body_d_mip0.dds
+
+
+newmtl 0-model-0-mat-0_avata_avatar_bag2_d.dds
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.167772 0.167772 0.167772
+Ks 0.007813 0.007813 0.007813
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd avatar_bag2_d.dds
+
+
+newmtl 0-model-0-mat-8_avata_avatar_eye_pupil.dds
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.167772 0.167772 0.167772
+Ks 0.007813 0.007813 0.007813
+Ni 1.000000
+d 0.000000
+illum 2
+map_Kd avatar_eye_pupil.dds
+
+
+newmtl 0-model-0-mat-5.001_a_avatar_female_body_d_
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.167772 0.167772 0.167772
+Ks 0.007813 0.007813 0.007813
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd avatar_female_body_d_mip0.dds
+
+
+newmtl 0-model-0-mat-2_avata_avatar_clothing_d_mip
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.167772 0.167772 0.167772
+Ks 0.007813 0.007813 0.007813
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd avatar_clothing_d_mip0.dds
+
+
+newmtl 0-model-0-mat-4_avata_Grace_avatar_hair_d.d
+Ns 78.431373
+Ka 0.000000 0.000000 0.000000
+Kd 0.167772 0.167772 0.167772
+Ks 0.007813 0.007813 0.007813
+Ni 1.000000
+d 1.000000
+illum 2
+map_Kd Grace_avatar_hair_d.dds
+
+

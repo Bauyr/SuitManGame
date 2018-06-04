@@ -1,0 +1,62 @@
+Initialize engine version: 5.6.4p4 (72f24c04957f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: AMD Radeon HD 6520G (ID=0x9647)
+    Vendor:   ATI
+    VRAM:     1497 MB
+    Driver:   15.201.1151.0
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\TextMeshPro-5.6-Runtime.dll (this message is harmless)
+Loading C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\TextMeshPro-5.6-Runtime.dll into Unity Child Domain
+- Completed reload, in  0.706 seconds
+Platform assembly: C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Kurmangazy\Documents\Unity Projects\Bauka the zadr\War_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.977066 ms
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 1714 -> priority: 1 
+  Thread -> id: 2664 -> priority: 1 
+Unloading 6 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - All passes removed
+UnloadTime: 10.012934 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 1212.
+Total: 1.742400 ms (FindLiveObjects: 0.212666 ms CreateObjectMapping: 0.151555 ms MarkObjects: 0.662444 ms  DeleteObjects: 0.707422 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 5.651067 ms
+
+Unloading 194 unused Assets to reduce memory usage. Loaded Objects now: 440.
+Total: 14.684757 ms (FindLiveObjects: 0.156933 ms CreateObjectMapping: 0.142755 ms MarkObjects: 0.691288 ms  DeleteObjects: 13.685468 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - Pass 'OUTLINE' has no vertex shader
+WARNING: Shader Unsupported: 'Toon/Basic Outline' - All passes removed
+UnloadTime: 0.986089 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 801.
+Total: 1.638755 ms (FindLiveObjects: 0.145688 ms CreateObjectMapping: 0.140311 ms MarkObjects: 0.578355 ms  DeleteObjects: 0.765111 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.622133 ms
+
+Unloading 45 unused Assets to reduce memory usage. Loaded Objects now: 490.
+Total: 3.920400 ms (FindLiveObjects: 0.116355 ms CreateObjectMapping: 0.132488 ms MarkObjects: 1.547822 ms  DeleteObjects: 2.114933 ms)
+

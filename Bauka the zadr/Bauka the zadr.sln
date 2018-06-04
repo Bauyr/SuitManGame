@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bauka the zadr", "Assembly-CSharp-firstpass.csproj", "{6B829A7A-3510-037C-5BAE-800DAB9DE6D0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bauka the zadr", "Assembly-CSharp.csproj", "{4408538B-341C-8541-1171-65017989F76F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Bauka the zadr", "Assembly-CSharp-Editor-firstpass.csproj", "{52D5130B-2BC4-CDC7-2D17-6DF3DDCDC5A5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6B829A7A-3510-037C-5BAE-800DAB9DE6D0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6B829A7A-3510-037C-5BAE-800DAB9DE6D0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6B829A7A-3510-037C-5BAE-800DAB9DE6D0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6B829A7A-3510-037C-5BAE-800DAB9DE6D0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4408538B-341C-8541-1171-65017989F76F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4408538B-341C-8541-1171-65017989F76F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4408538B-341C-8541-1171-65017989F76F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4408538B-341C-8541-1171-65017989F76F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{52D5130B-2BC4-CDC7-2D17-6DF3DDCDC5A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{52D5130B-2BC4-CDC7-2D17-6DF3DDCDC5A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{52D5130B-2BC4-CDC7-2D17-6DF3DDCDC5A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{52D5130B-2BC4-CDC7-2D17-6DF3DDCDC5A5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
